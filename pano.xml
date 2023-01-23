@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="18007" appversion="6.1.10">
+  <panorama id="node1" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0942.JPG" heading="0" author="" tags="Экспорт без названия" altitude="76.73" copyright="" longitude="35.077322" source="" nodeid="node1" datetime="Сб 20.02.21 11:33" latitude="47.837698" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-12.82" title="Алея" url="{node2}" id="Point01" pan="0.74" skinid="ht_node" target="" distance="10.315" description=""/>
+      <hotspot tilt="-5.07" title="Алея" url="{node3}" id="Prohod2" pan="1.37" skinid="ht_node" target="$fwd" distance="23.5431" description=""/>
+      <hotspot tilt="-1.76" title="Центральний вхід " url="{node4}" id="Point03" pan="-4.52" skinid="ht_node" target="$fwd" distance="21.006" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" tilt="32.830" type="1" id="Lensflare01" blinding="50.000" pan="-104.790"/>
+    </media>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0943.JPG" heading="0" author="" tags="Экспорт без названия" altitude="77.56" copyright="" longitude="35.077460" source="" nodeid="node2" datetime="Сб 20.02.21 11:35" latitude="47.837703" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-2.73" title="Центральний вхід " url="{node3}" id="Point01" pan="-4.36" skinid="ht_node" target="$fwd" distance="13.6033" description=""/>
+      <hotspot tilt="-2.94" title="Алея" url="{node1}" id="Point02" pan="-183.3" skinid="ht_node" target="176.5/-7.9/70.0" distance="10.315" description=""/>
+      <hotspot tilt="-9.54" title="Алея" url="{node3}" id="Prohod2" pan="-0.5" skinid="ht_node" target="$fwd" distance="13.6033" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" tilt="35.830" type="1" id="Lensflare01" blinding="50.000" pan="-107.500"/>
+    </media>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0944.JPG" heading="0" author="" tags="Экспорт без названия" altitude="76.54" copyright="" longitude="35.077627" source="" nodeid="node3" datetime="Сб 20.02.21 11:36" latitude="47.837752" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-2.18" title="Центральний вхід" url="{node4}" id="Point01" pan="-1" skinid="ht_node" target="$fwd" distance="4.40179" description=""/>
+      <hotspot tilt="-6.72" title="Проход 1" url="{node2}" id="Point02" pan="-180.88" skinid="ht_node" target="$fwd" distance="13.6033" description=""/>
+      <hotspot tilt="-2.93" title="Выход" url="{node1}" id="Point03" pan="-179.61" skinid="ht_node" target="$fwd" distance="23.5431" description=""/>
+    </hotspots>
+    <media>
+      <lensflare alpha="80.000" color="0xffffff" tilt="30.860" type="1" id="Lensflare01" blinding="50.000" pan="-105.700"/>
+    </media>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0945.JPG" heading="0" author="" tags="Экспорт без названия" altitude="76.03" copyright="" longitude="35.077579" source="" nodeid="node4" datetime="Сб 20.02.21 11:39" latitude="47.837775" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-14.09" title="До холу" url="{node5}" id="Point01" pan="-37.9" skinid="ht_node" target="$fwd" description=""/>
+      <hotspot tilt="-11.18" title="Алея" url="{node3}" id="Point02" pan="-187.7" skinid="ht_node" target="$fwd" distance="4.40179" description=""/>
+      <hotspot tilt="-3.51" title="Алея" url="{node2}" id="Point03" pan="-182.35" skinid="ht_node" target="177.6/6.4/70.0" distance="11.9576" description=""/>
+      <hotspot tilt="2.1" title="Алея" url="{node1}" id="Point04" pan="-181.89" skinid="ht_node" target="172.1/8.0/70.0" distance="21.006" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0946.JPG" heading="0" author="" tags="Экспорт без названия" copyright="" longitude="" source="" nodeid="node5" datetime="Сб 20.02.21 11:45" latitude="" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-26.71" title="Ресепшн" url="{node6}" id="Point01" pan="-251.87" skinid="ht_node" target="$fwd" description=""/>
+      <hotspot tilt="-19.55" title="Коридор" url="{node7}" id="Point02" pan="-26.83" skinid="ht_node" target="" description=""/>
+      <hotspot tilt="-14.87" title="Вихiд на вулицю" url="{node4}" id="Point03" pan="-163.04" skinid="ht_node" target="$fwd" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0947.JPG" heading="0" author="" tags="Экспорт без названия" copyright="" longitude="" source="" nodeid="node6" datetime="Сб 20.02.21 11:46" latitude="" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-12.56" title="Коридор" url="{node7}" id="Point01" pan="-45.48" skinid="ht_node" target="2.2/21.9/70.0" description=""/>
+      <hotspot tilt="-27.57" title="Хол" url="{node5}" id="Point02" pan="-69.16" skinid="ht_node" target="-169.3/-10.6/70.0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0948.JPG" heading="0" author="" tags="Экспорт без названия" altitude="70.15" copyright="" longitude="35.077769" source="" nodeid="node7" datetime="Сб 20.02.21 11:47" latitude="47.837957" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-11.85" title="Ресепшн" url="{node6}" id="Point01" pan="-234.92" skinid="ht_node" target="-58.5/-19.9/70.0" description=""/>
+      <hotspot tilt="-23.08" title="Хол" url="{node5}" id="Point02" pan="-219.32" skinid="ht_node" target="-172.5/-5.0/70.0" description=""/>
+      <hotspot tilt="0.84" title="Актова зала" url="{node8}" id="Point03" pan="-85.35" skinid="ht_node" target="$fwd" distance="80.6378" description=""/>
+      <hotspot tilt="4.26" title="Спортивна зала" url="{node9}" id="Point04" pan="-91.12" skinid="ht_node" target="$fwd" distance="86.3165" description=""/>
+      <hotspot tilt="0.77" title="Бібліотека" url="{node12}" id="Point05" pan="-96.95" skinid="ht_node" target="$fwd" distance="57.4184" description=""/>
+      <hotspot tilt="-6.15" title="ЛФК/ Фізична культура (1 поверх)" url="{node13}" id="Point06" pan="-85.64" skinid="ht_node" target="159.9/-15.9/70.0" distance="109.151" description=""/>
+      <hotspot tilt="2.18" title="Психологічна служба" url="{node14}" id="Point07" pan="-269.45" skinid="ht_node" target="-2.0/-12.1/70.0" distance="81.8233" description=""/>
+      <hotspot tilt="-9.15" title="Makerspace" url="{node20}" id="Point08" pan="-276.02" skinid="ht_node" target="-117.7/-19.3/70.0" distance="73.7308" description=""/>
+      <hotspot tilt="5.45" title="Лабораторія гарденотерапії" url="{node15}" id="Point09" pan="-276.55" skinid="ht_node" target="-138.6/0.0/70.0" distance="34.8528" description=""/>
+      <hotspot tilt="1.46" title="Сенсорна інтеграція" url="{node16}" id="Point10" pan="-283.12" skinid="ht_node" target="142.9/-18.0/70.0" distance="90.4578" description=""/>
+      <hotspot tilt="-2.3" title="Навчальний кабінет з інформатики" url="{node19}" id="Point11" pan="-276.31" skinid="ht_node" target="144.2/-18.1/70.0" distance="43.5973" description=""/>
+      <hotspot tilt="-5.81" title="Хореоргафія" url="{node18}" id="Point12" pan="-282.88" skinid="ht_node" target="-92.3/-10.8/70.0" distance="32.3056" description=""/>
+      <hotspot tilt="-6.83" title="Навчальний кабінет з математики" url="{node22}" id="Point13" pan="-97.12" skinid="ht_node" target="-25.2/0.0/70.0" distance="321.848" description=""/>
+      <hotspot tilt="-3.11" title="Навчальний кабінет з теоретичного навчання&#xa;" url="{node21}" id="Point14" pan="-91.33" skinid="ht_node" target="101.8/-24.6/70.0" distance="17.665" description=""/>
+      <hotspot tilt="-9.77" title="ЛФК/ Фізична культура (2 поверх)" url="{node23}" id="Point15" pan="-91.42" skinid="ht_node" target="117.7/-11.0/70.0" distance="35.6685" description=""/>
+      <hotspot tilt="-5.23" title="Навчальний кабінет з хімії/біології" url="{node17}" id="Point16" pan="-269.74" skinid="ht_node" target="0.0/0.0/70.0" distance="44.7328" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0950.JPG" heading="0" author="" tags="Экспорт без названия" altitude="81.77" copyright="" longitude="35.077352" source="" nodeid="node8" datetime="Сб 20.02.21 11:51" latitude="47.838626" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-3.78" title="До коридору" url="{node7}" id="Point01" pan="-5.43" skinid="ht_node" target="$fwd" distance="80.6378" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0951.JPG" heading="0" author="" tags="Экспорт без названия" altitude="70.15" copyright="" longitude="35.077488" source="" nodeid="node9" datetime="Сб 20.02.21 11:58" latitude="47.838710" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-1.98" title="До коридору" url="{node7}" id="Point01" pan="-201.41" skinid="ht_node" target="$fwd" distance="86.3165" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0954.JPG" heading="0" author="" tags="Экспорт без названия" altitude="67.23" copyright="" longitude="35.077907" source="" nodeid="node12" datetime="Сб 20.02.21 12:11" latitude="47.837449" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-4.59" title="В коридор" url="{node7}" id="Point01" pan="-281.57" skinid="ht_node" target="-91.8/-1.8/70.0" distance="57.4184" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0955.JPG" heading="0" author="" tags="Экспорт без названия" altitude="78.78" copyright="" longitude="35.078904" source="" nodeid="node13" datetime="Сб 20.02.21 12:15" latitude="47.837338" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-2.72" title="До коридору" url="{node7}" id="Point01" pan="-313.67" skinid="ht_node" target="-92.9/0.2/70.0" distance="109.151" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node21" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0957.JPG" heading="0" author="" tags="Pano2VR6" altitude="58.72" copyright="" longitude="35.077570" source="" nodeid="node21" datetime="Сб 20.02.21 12:21" latitude="47.838043" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-4.2" title="До коридору" url="{node7}" id="Point01" pan="-288.89" skinid="ht_node" target="87.1/-0.3/70.0" distance="17.665" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0961.JPG" heading="0" author="" tags="Pano2VR6" altitude="664.94" copyright="" longitude="35.079605" source="" nodeid="node22" datetime="Сб 20.02.21 12:25" latitude="47.840576" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-7.11" title="До коридору" url="{node7}" id="Point01" pan="-58.03" skinid="ht_node" target="-93.4/-3.0/70.0" distance="321.848" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0962.JPG" heading="0" author="" tags="Pano2VR6" altitude="172.44" copyright="" longitude="35.078125" source="" nodeid="node23" datetime="Сб 20.02.21 12:27" latitude="47.838171" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-5.81" title="До коридору" url="{node7}" id="Point01" pan="-351.75" skinid="ht_node" target="-92.9/-5.2/70.0" distance="35.6685" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0963.JPG" heading="0" author="" tags="Экспорт без названия" altitude="87.05" copyright="" longitude="35.078794" source="" nodeid="node14" datetime="Сб 20.02.21 12:32" latitude="47.837696" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-33.88" title="" url="" id="Point01" pan="-246.12" skinid="ht_url" target="_blank" description=""/>
+      <hotspot tilt="-9.48" title="До коридору" url="{node7}" id="Point02" pan="-156.13" skinid="ht_node" target="86.3/-0.4/70.0" distance="81.8233" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0964.JPG" heading="0" author="" tags="Экспорт без названия" altitude="67.17" copyright="" longitude="35.078078" source="" nodeid="node15" datetime="Сб 20.02.21 12:36" latitude="47.837722" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-4.62" title="До коридору" url="{node7}" id="Point01" pan="-158.45" skinid="ht_node" target="85.9/-0.6/70.0" distance="34.8528" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0967.JPG" heading="0" author="" tags="Экспорт без названия" altitude="62.96" copyright="" longitude="35.078682" source="" nodeid="node16" datetime="Сб 20.02.21 12:41" latitude="47.837422" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-7.44" title="До коридору" url="{node7}" id="Point01" pan="-40.74" skinid="ht_node" target="86.6/-1.8/70.0" distance="90.4578" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0968.JPG" heading="0" author="" tags="Экспорт без названия" altitude="73.42" copyright="" longitude="35.077910" source="" nodeid="node17" datetime="Сб 20.02.21 12:45" latitude="47.837566" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-5.3" title="До коридору" url="{node7}" id="Point01" pan="-30.21" skinid="ht_node" target="$fwd" distance="44.7328" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0970.JPG" heading="0" author="" tags="Экспорт без названия" altitude="98.99" copyright="" longitude="35.077949" source="" nodeid="node19" datetime="Сб 20.02.21 12:52" latitude="47.837584" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-4.52" title="До коридору" url="{node7}" id="Point01" pan="-319.24" skinid="ht_node" target="85.7/-1.1/70.0" distance="43.5973" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0969.JPG" heading="0" author="" tags="Экспорт без названия" altitude="81.69" copyright="" longitude="35.078120" source="" nodeid="node18" datetime="Сб 20.02.21 12:48" latitude="47.837787" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-8.74" title="До коридору" url="{node7}" id="Point01" pan="-2.88" skinid="ht_node" target="$fwd" distance="32.3056" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input levelingpitch="0" overlap="1" height="1440" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1440" levelbias="0.400">
+      <level predecode="0" preload="0" height="1440" width="1440"/>
+      <level predecode="0" preload="0" height="720" width="720"/>
+      <level predecode="1" preload="1" height="360" width="360"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-75" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata info="" title="DCIM\100GOPRO\GS__0972.JPG" heading="0" author="" tags="Экспорт без названия" altitude="70.06" copyright="" longitude="35.078211" source="" nodeid="node20" datetime="Сб 20.02.21 12:56" latitude="47.837364" comment="" customnodeid="" description=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label backgroundalpha="1" border="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" height="20" borderalpha="1" background="1" width="180" textcolor="0x000000" enabled="1" bordercolor="0x000000" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot tilt="-8.54" title="До коридору" url="{node7}" id="Point01" pan="-302.56" skinid="ht_node" target="86.2/-1.6/70.0" distance="73.7308" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" type="crossdissolve" softedge="0" zoomspeed="2" zoomoutpause="1" blendcolor="0x000000" zoomafteroutfov="20" blendtime="1" zoomout="0" zoomafterinfov="90" enabled="1" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" invertwheel="0" speedwheel="1" simulatemass="1" rubberband="0" contextprojections="0" lockedkeyboard="0" hideabout="1" contextfullscreen="1" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata info="" title="" heading="0" author="" tags="" copyright="" longitude="" source="" nodeid="master" datetime="" latitude="" comment="" customnodeid="" description=""/>
+  </masternode>
+</tour>
